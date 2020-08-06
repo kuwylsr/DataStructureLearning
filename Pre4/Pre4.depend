@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508055403 source:f:\数据结构习题\pre4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

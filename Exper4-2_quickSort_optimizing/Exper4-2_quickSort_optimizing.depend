@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513482345 source:f:\数据结构-大二上\exper4-2_quicksort_optimizing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

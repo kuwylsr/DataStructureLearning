@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512277899 source:f:\数据结构-大二上\exper3-2\main.c
+	<stdio.h>
+	<stdlib.h>
+

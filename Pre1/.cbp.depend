@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507971558 source:f:\c语言 后续学习\.cbp\pre1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507971558 source:f:\数据结构-大二上\pre1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

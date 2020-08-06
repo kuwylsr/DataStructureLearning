@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512553185 source:f:\数据结构-大二上\pregraph2_maze\main.c
+	<stdio.h>
+	<stdlib.h>
+

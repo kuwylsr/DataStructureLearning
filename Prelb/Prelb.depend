@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1508380353 source:f:\数据结构习题\prelb\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508401461 source:f:\shujujiegou prectise\prelb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508767478 source:f:\数据结构-大二上\prelb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

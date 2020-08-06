@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513493194 source:f:\数据结构-大二上\exper4-3_msd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

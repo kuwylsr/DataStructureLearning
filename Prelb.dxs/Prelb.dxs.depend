@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509524371 source:f:\数据结构-大二上\prelb.dxs\main.c
+	<stdio.h>
+	<stdlib.h>
+

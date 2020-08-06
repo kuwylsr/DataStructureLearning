@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511438380 source:f:\数据结构-大二上\loset\main.c
+	<stdio.h>
+	<stdlib.h>
+
